@@ -29,9 +29,7 @@ This project demonstrates practical experience in:
 # 📷 Dashboard Preview
 
 ## Executive Overview
-
-![Executive Overview][(https://github.com/ISSAH3/Financial-Performance-Dashboard/blob/main/Executive%20Overview.png)]
-
+![Executive Overview](Images/executive-overview.png)
 ---
 
 ## Product Performance
