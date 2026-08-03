@@ -29,7 +29,7 @@ This project demonstrates practical experience in:
 # 📷 Dashboard Preview
 
 ## Executive Overview
-![Executive Overview](Images/Executive Overview.png)
+![Executive Overview](Executive%20Overview.png)
 
 ---
 
