@@ -30,15 +30,12 @@ This project demonstrates practical experience in:
 
 ## Executive Overview
 
-> *(Insert screenshot here)*
-
 ![Executive Overview](Images/Executive%20Overview.png)
 
 ---
 
 ## Product Performance
 
-> *(Insert screenshot here)*
 
 ![Product Performance](Images/Product%20Performance.png)
 
@@ -46,23 +43,18 @@ This project demonstrates practical experience in:
 
 ## Regional Performance
 
-> *(Insert screenshot here)*
-
 ![Regional Performance](Images/Regional%20Performance.png)
 
 ---
 
 ## Sales & Financial Intelligence
 
-> *(Insert screenshot here)*
 
 ![Financial Intelligence](Images/Financial%20Intelligence.png)
 
 ---
 
 ## Executive Summary
-
-> *(Insert screenshot here)*
 
 ![Executive Summary](Images/Executive%20Summary.png)
 
