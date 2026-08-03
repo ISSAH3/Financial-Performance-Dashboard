@@ -30,7 +30,7 @@ This project demonstrates practical experience in:
 
 ## Executive Overview
 
-![Executive Overview](Images/Executive%20Overview.png)
+![Executive Overview](Executive Overview.png)
 
 ---
 
