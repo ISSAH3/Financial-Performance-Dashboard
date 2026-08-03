@@ -36,26 +36,28 @@ This project demonstrates practical experience in:
 ## Product Performance
 
 
-![Product Performance](Images/Product%20Performance.png)
+![Product Performance](Product%20Analysis%20.png)
 
 ---
 
 ## Regional Performance
 
-![Regional Performance](Images/Regional%20Performance.png)
+
+![Regional Performance](Regional%20Analysis.png)
 
 ---
 
 ## Sales & Financial Intelligence
 
 
-![Financial Intelligence](Images/Financial%20Intelligence.png)
+![Financial Intelligence](Salesand%20Profit%20Analysis%20.png)
 
 ---
 
 ## Executive Summary
 
-![Executive Summary](Images/Executive%20Summary.png)
+
+![Executive Summary](Summary%20And%20Recommendations.png)
 
 ---
 
