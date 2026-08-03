@@ -30,7 +30,7 @@ This project demonstrates practical experience in:
 
 ## Executive Overview
 
-![Executive Overview][(Executive Overview.png)](https://github.com/ISSAH3/Financial-Performance-Dashboard/blob/main/Executive%20Overview.png)]
+![Executive Overview][(https://github.com/ISSAH3/Financial-Performance-Dashboard/blob/main/Executive%20Overview.png)]
 
 ---
 
