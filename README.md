@@ -57,7 +57,7 @@ This project demonstrates practical experience in:
 ## Executive Summary
 
 
-![Executive Summary](Images/executive-summary.png)
+![Executive Summary](Summary%20And%20Recommendations%20.png)
 
 ---
 
